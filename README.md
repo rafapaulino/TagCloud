@@ -1,13 +1,12 @@
-# Últimas Notícias
+# TagCloud
 
-Últimas Notícias na página single
 ## Features
 
 - `v1.0.0` Creating the plugin.
 
 ### Important informations
 
-- To install is quite simple: bower install ultimas-noticias
+- To install is quite simple: bower install tagcloud
 -----
 
 ## Example of use

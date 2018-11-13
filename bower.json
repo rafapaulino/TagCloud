@@ -1,6 +1,6 @@
 {
-  "name": "tags",
-  "homepage": "https://github.com/rafapaulino/tags",
+  "name": "tagcloud",
+  "homepage": "https://github.com/rafapaulino/tagcloud",
   "description": "Nuvem de tags no estilo WordPress",
   "main": "",
   "license": "MIT",
