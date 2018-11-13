@@ -1,0 +1,20 @@
+{
+  "name": "tags",
+  "homepage": "https://github.com/rafapaulino/tags",
+  "description": "Nuvem de tags no estilo WordPress",
+  "main": "",
+  "license": "MIT",
+  "keywords": [
+    "tags"
+  ],
+  "authors": [
+    "Rafael Paulino"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
